@@ -16,7 +16,7 @@
 - ☁️ Cloud Computing (AWS, Google Cloud)
 
 #### 📬 Let's Connect
-- 📸 [Instagram](instagram.com/the.shadow.ledger)
+- 📸 [Instagram](www.instagram.com/the.shadow.ledger)
 
 #### 💞️ Open to Collaborations  
 - 📊 Data Science & AI Projects
