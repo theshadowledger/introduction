@@ -13,7 +13,10 @@
 - 📊 SQL & Database Management  
 - 📉 Data Visualization (Tableau, Power BI, Matplotlib)  
 - 🤖 AI & Machine Learning (Deep Learning, NLP, Computer Vision)  
-- ☁️ Cloud Computing (AWS, Google Cloud)  
+- ☁️ Cloud Computing (AWS, Google Cloud)
+
+#### 📬 Let's Connect
+- 📸 [Instagram](instagram.com/the.shadow.ledger)
 
 #### 💞️ Open to Collaborations  
 - 📊 Data Science & AI Projects
